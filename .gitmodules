@@ -1,0 +1,15 @@
+[submodule "logrocket-single-spa-aboutpage"]
+	path = logrocket-single-spa-aboutpage
+	url = git@github.com:iannmuller0/LOGROCKET-SINGLE-SPA.git
+[submodule "logrocket-single-spa-contactpage"]
+	path = logrocket-single-spa-contactpage
+	url = git@github.com:iannmuller0/LOGROCKET-SINGLE-SPA.git
+[submodule "logrocket-single-spa-homepage"]
+	path = logrocket-single-spa-homepage
+	url = git@github.com:iannmuller0/LOGROCKET-SINGLE-SPA.git
+[submodule "logrocket-single-spa-navbar"]
+	path = logrocket-single-spa-navbar
+	url = git@github.com:iannmuller0/LOGROCKET-SINGLE-SPA.git
+[submodule "logrocket-single-spa-root"]
+	path = logrocket-single-spa-root
+	url = git@github.com:iannmuller0/LOGROCKET-SINGLE-SPA.git
